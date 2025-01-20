@@ -1,5 +1,8 @@
 def fibonacci_sequence(n):
-    """Generate a Fibonacci sequence up to n."""
+    """
+    Generate a Fibonacci sequence up to n.
+    Second line in description
+    """
     a, b = 0, 1
     while a <= n:
         yield a
