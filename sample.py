@@ -6,5 +6,20 @@ def fibonacci_sequence(n):
         a, b = b, a + b
 
 # Using the generator
+# New function description
 for number in fibonacci_sequence(100):
     print(number)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
